@@ -214,7 +214,7 @@ function Header() {
                         {currentUser ? (
                             <Image
                                 className={cx('user-avatar')}
-                                src="https://p16s-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dcc4ae0a5869e10346fe6d3c879d93e0~c5_100x100.jpeg?x-expires=1672621200&x-signature=4O2y7gkbF7bFrxTI2sgGshYeHEE%3D"
+                                src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-6/233889314_1410157662701127_8889914662885568377_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gZHf_SusfmMAX9Zt2A-&_nc_ht=scontent.fsgn3-1.fna&oh=00_AfAbfwyP-ydCBKLGWZLe4_e55D-mHJrLMXBkDtkBJXvUuA&oe=63BA46A6"
                                 alt="Nguyen Van A"
                                 fallback={'https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-1/233889314_1410157662701127_8889914662885568377_n.jpg?stp=dst-jpg_p240x240&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=bS2s1abyB4AAX8OepFu&_nc_ht=scontent.fsgn3-1.fna&oh=00_AfCamhA8NHDyR9TTddiFAabS0VM97B_2aS3nBFMC_CSKxQ&oe=63B53DA8'}
                             />
